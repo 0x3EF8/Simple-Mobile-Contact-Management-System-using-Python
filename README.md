@@ -1,6 +1,6 @@
 # Simple Mobile Contact Management System using Python 
 
-![img](./simple-mobile-contact-management-system-using-python.png.png)
+![img](./simple-mobile-contact-management-system-using-python.png)
 
 Simple Mobile Contact Management System with Source Code is a project that can manage your mobile contact list by storing it digitally. The application contains a simple function that enable you to manually enter the mobile number you want to save. The project is a user-friendly kind of system you free to modify it and use it to your own system.
 
